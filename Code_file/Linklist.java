@@ -1,5 +1,6 @@
 public class LinkedListTest {
   
+    // finding the middle element of a linklist :) 
   
     public static void main(String args[]) {
         //My LinkedList 
