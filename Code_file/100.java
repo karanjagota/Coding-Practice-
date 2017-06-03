@@ -1,5 +1,6 @@
 import java.util.Arrays;	
 
+
 public class OneHundredDoors {
 
 	static int[] doors= new int [100];
