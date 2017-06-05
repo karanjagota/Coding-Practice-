@@ -1,3 +1,4 @@
+// function to invert binary tree.
 public TreeNode invertTree(TreeNode root) {
     if(root!=null){
         check(root);
