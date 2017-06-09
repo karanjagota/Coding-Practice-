@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// sparse matrix example ... 
 public class SparseMatrixOperations {
 
     private int row, col;
